@@ -9,4 +9,5 @@ void main ()
     printf("size of character = %d bytes\n",sizeof(char));
      printf("size of double = %d bytes\n",sizeof(double));
 
+
 }
